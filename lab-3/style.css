@@ -1,0 +1,43 @@
+.content {
+	background-color: darkgreen;
+	width: 100%;
+	height: 100%;
+	flex-direction: column;
+	padding-top: 50px;
+}
+
+.navbar-brand {
+	color: whitesmoke !important;
+}
+
+form {
+	text-align: center;
+}
+
+.alert {
+	margin: 5% auto;
+}
+
+.nav-link {
+	color: white;
+}
+
+.nav-link {
+	color: white !important;
+}
+
+.nav-link:hover {
+	color: lightgray !important;
+}
+
+.disabled {
+	color: lightgray !important;
+}
+
+.cardio {
+	flex-direction: row !important;
+}
+
+.card {
+	margin: 50px;
+}
